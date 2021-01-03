@@ -6,9 +6,9 @@ Read the Project Guidelines if you want to know more about the subject.
 This work was developed during the 1st semester divided in 2 main topics: Data preprocessing and Clustering (using SOM and K-means).
 
 ### Authors:
-Ana Marta da Silva (m20200971@novaims.unl.pt)
-Beatriz Pereira (m20200674@novaims.unl.pt)
-Nadine Aldesouky (m20202568@novaims.unl.pt)
+- Ana Marta da Silva (m20200971@novaims.unl.pt)
+- Beatriz Pereira (m20200674@novaims.unl.pt)
+- Nadine Aldesouky (m20202568@novaims.unl.pt)
 
 ### Main lecturer:
 Prof. Fernando Lucas Bação
