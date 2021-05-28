@@ -10,14 +10,16 @@ The preprocessed data will be downloaded to that folder after you run the Data_E
 
 
 ### Authors:
-- Ana Marta da Silva (m20200971@novaims.unl.pt)
-- Beatriz Pereira (m20200674@novaims.unl.pt)
-- Nadine Aldesouky (m20202568@novaims.unl.pt)
+- Beatriz Pereira (20200674@novaims.unl.pt)
+- Frederico Santos (20200604@novaims.unl.pt)
+- Ivan Kisialiou (20200998@novaims.unl.pt)
+- Tiago Ramos (20200613@novaims.unl.pt)
+
+
 
 ### Main lecturer:
-Prof. Fernando Lucas Bação
+Prof. Leonardo Vanneschi
 ### Assistant professors:
-- David Silva
-- João Fonseca
+- Davide Montali
 
  
